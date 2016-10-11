@@ -414,7 +414,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" groups="pdk,tools" />
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" />
   <project path="system/bt" name="android_system_bt" remote="aospa" />
-  <project path="system/core" name="android_system_core" remote="aospa" />
+  <project path="system/core" name="android_system_core" remote="AOSPA-CLARK" />
   <project path="system/extras" name="android_system_extras" remote="aospa" groups="pdk" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" />
   <project path="system/keymaster" name="platform/system/keymaster" remote="caf" groups="pdk" />
